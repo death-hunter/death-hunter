@@ -10,7 +10,6 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at College</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
@@ -24,7 +23,7 @@
 <a href="https://github.com/death-hunter"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=death-hunter&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/death-hunter"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/evan.death.hunter"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/evan.death.hunter"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="#"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+<a href="https://github.com/death-hunter"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
+<a href="https://fb.com/evan.death.hunter"><img align="left" title="Facebook" alt="Facebook" width="30px" src="facebook.png" /></a>
+<a href="https://m.me/evan.death.hunter"><img align="left" title="Messenger" alt="Messenger" width="30px" src="messenger.png" /></a>
+

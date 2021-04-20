@@ -6,16 +6,14 @@
 <a href="https://github.com/death-hunter"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=death-hunter&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Howdy , it's Irfan Ahmed Evan 👋</i></b></h2>
+<h2><b><i>Irfan Ahmed Evan 👋</i></b></h2>
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at College</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
 <li> 🐍 <i>Trying to learn Python</i></li>
-<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 
 
